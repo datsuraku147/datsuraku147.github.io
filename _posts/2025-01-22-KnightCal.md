@@ -3,7 +3,7 @@ title: KnightCal
 date: 2025-01-22 18:48:20 +0800
 categories: [CTF]
 tags: [web]     # TAG names should always be lowercase
-description: My writeup for KnightCTF 2025 "KnightCal" challenge
+description: My writeup for the KnightCTF 2025 "KnightCal" challenge
 ---
 
 ## Introduction
@@ -18,7 +18,7 @@ The target site is pretty simple, we can enter numbers and math expressions then
 
 ![Figure 1](https://github.com/user-attachments/assets/e5a2f685-6f7f-46cf-b818-81b5c188b3b3){: width="700" height="400" }
 
-***Figure 1***
+&emsp; &emsp; &emsp; ***Figure 1***
 
 
 
@@ -53,6 +53,8 @@ And that's how we get the flag :P
 
 ![Figure 2](https://github.com/user-attachments/assets/39950f84-7287-4f68-ab43-0a08ac502034){: width="700" height="400" }
 
-***Figure 2***
+&emsp; &emsp; &emsp; ***Figure 2***
 
 That's all for this writeup. Thanks for reading and have a nice day :D
+
+***-Datsuraku147***
