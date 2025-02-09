@@ -1,7 +1,7 @@
 ---
 title: KnightCal
 date: 2025-01-22 18:48:20 +0800
-categories: [CTF]
+categories: [Hacking, CTF]
 tags: [web]     # TAG names should always be lowercase
 description: My writeup for the KnightCTF 2025 "KnightCal" challenge
 ---
