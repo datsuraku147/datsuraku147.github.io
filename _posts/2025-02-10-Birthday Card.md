@@ -19,7 +19,7 @@ When I went to the target site, `https://birthday.ctf.prgy.in/`, I saw this:
 
 My first thought is that the problem might be a sanitization issue since the only thing I can do is enter text to generate a card. Thankfully the challenge comes with the source `appy.py`
 
-## Appy.py
+## App.py
 
 ### Used of Jinja
 I quickly glanced through the code and saw `Jinja` 
