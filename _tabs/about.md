@@ -23,7 +23,7 @@ I'm 19, from the Philippines, and a self-taught security researcher. I occasiona
 * Live in my own house and have a small farm
 * Be able to sleep without worrying about the future
 
-**Current Goal (2025-01-24): Be active in CTFs, upskill, and write about security-related stuff...and maybe a job too :P**
+**Current Goal (2025-02-11): Be active in CTFs, upskill, and write about security-related stuff :P**
 
 
 ## Find more about me here:
