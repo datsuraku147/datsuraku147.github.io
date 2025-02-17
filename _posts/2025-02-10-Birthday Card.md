@@ -14,7 +14,7 @@ My knowledge about SSTI is little to none, so even though this was an easy chall
 
 When I went to the target site, `https://birthday.ctf.prgy.in/`, I saw this:
 
-![firstglance](https://github.com/user-attachments/assets/acf0cb40-4c45-4eb8-a82d-82f26f7b0638){: width="400" height="800" }
+![firstglance](https://github.com/user-attachments/assets/acf0cb40-4c45-4eb8-a82d-82f26f7b0638){: width="400" height="300" }
 
 
 My first thought is that the problem might be a sanitization issue since the only thing I can do is enter text to generate a card. Thankfully the challenge comes with the source `appy.py`
